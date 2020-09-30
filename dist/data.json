@@ -1,0 +1,26 @@
+[
+    {
+        "image":"../images/homepage/card-img.jpg",
+        "name":"Card name",
+        "price":999.99,
+        "url":"google.com"
+    },
+    {
+        "image":"../images/homepage/card-img1.jpg",
+        "name":"Card name",
+        "price":139.99,
+        "url":"google.com"
+    },
+    {
+        "image":"../images/homepage/card-img2.jpg",
+        "name":"Card name",
+        "price":358.99,
+        "url":"google.com"
+    },
+    {
+        "image":"../images/homepage/card-img3.jpg",
+        "name":"Card name",
+        "price":111.99,
+        "url":"google.com"
+    }
+]
